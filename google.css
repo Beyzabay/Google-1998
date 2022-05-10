@@ -1,0 +1,88 @@
+.logo{
+margin-top: 0px;
+}
+.container{
+    margin-top: -15px;
+    margin-left: 20px;
+    background-color: #eeeeee;
+    width: 1345px;
+    height: 65px;
+}
+input{
+    margin-top: -15px;
+    margin-right: 0px;
+    width: 305px;
+}
+.btn{
+    margin-top: 0px;
+    float: top;
+    position: absolute;
+    top: 163px;
+    left: 667px;
+}
+.btn-2{
+    margin-top: 0px;
+    float: top;
+    position: absolute;
+    top: 163px;
+    left: 776px;
+}
+.turkuaz-1{
+    float: left;
+    position: absolute;
+    left: 105px;
+    margin-top: 1px;
+    background-color: #7EE5DA;
+    width: 482px;
+    height: 77px;
+    line-height: 4px;
+}
+.turkuaz-2{
+    float: left;
+    position: absolute;
+    left: 589px;
+    margin-top: 1px;
+    background-color: #70CCC2;
+    line-height: 0px;
+    width: 283px;
+    height: 77px;
+    font-size: 14px;
+}
+.turkuaz-3{
+    float: left;
+    position: absolute;
+    background-color: #62b3aa;
+    left: 874px;
+    margin-top: 1px;
+    width: 576px;
+    height: 77px;
+    line-height: 1px;
+    font-size: 13px;
+}
+.input-2{
+    margin-top: -5px;
+    width: 170px;
+    margin-right: 2px;
+}
+::placeholder{
+    color: black;
+}
+.subscribe{
+margin-right: 59px;
+}
+#getgoogle{
+    margin-top: 8px;
+}
+#archive{
+    float: right;
+    position: absolute;
+    right: 222px;
+    margin-top: -10px;
+}
+.copy{
+    float: left;
+    position: absolute;
+    left: 698px;
+    margin-top: 78px;
+    font-size: 13px;
+}
